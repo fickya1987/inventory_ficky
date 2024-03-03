@@ -1,0 +1,39 @@
+Name,Email-ID,ph-no.,product ID, product,Qty,price, Total, Date
+Ram ,ram@gmail.com,8787664322,1001,5-Star ,10,10,100,Tue Sep 26 18:15:27 2023
+Shyam,shyam@gmail.com,789798678,1004,Red velvet ,5,100,500,Tue Sep 26 18:16:09 2023
+Manish,manish@gmail.com,879872983,1002,Milky Bar ,20,10,200,Tue Sep 26 18:18:58 2023
+Sanjay,sanjay@gmail.com,872879082,1003,Cadbury ,15,20,300,Tue Sep 26 18:20:43 2023
+Timmy,timmy@gmail.com,873927923,1004,Red velvet ,12,100,1200,Tue Sep 26 18:26:37 2023
+harry,harry@gmail.com,8478327423,1002,Milky Bar ,5,10,50,Tue Sep 26 21:37:52 2023
+Ron,ron_w@gmail.com,7898372549,1003,Cadbury ,30,20,600,Tue Sep 26 21:38:30 2023
+John,john@gmail.com,8979868734,1003,Cadbury ,20,20,400,Wed Sep 27 16:42:23 2023
+Ramu,ramu@gmail.com,879869867,1003,Cadbury ,25,20,500,Wed Sep 27 17:07:05 2023
+Sammy,sammy@gmail.com,897988967,1004,Red velvet ,55,100,5500,Wed Sep 27 17:26:39 2023
+Sunny,sunny@gmail.com,867876876,1004,Red velvet ,30,200,6000,Wed Sep 27 17:29:54 2023
+Samarth,samrth@gmail.com,986876876,1005,Choco_lava ,30,200,6000,Wed Sep 27 17:32:06 2023
+Rocky,rocky@gmail.com,908907987,1005,Choco_lava ,35,200,7000,Wed Sep 27 17:33:15 2023
+Vikky,vikky@gmail.com,798675765,1001,5-Star ,80,10,900,Wed Sep 27 17:35:56 2023
+Zaheer,zaheer@gnail.com,7986787687,1002,Milky Bar ,60,10,700,Wed Sep 27 17:41:26 2023
+ginny,ginny,7686876876,1005,Choco_lava ,35,200,8000,Wed Sep 27 17:42:30 2023
+Krishh,krish@gmail.com,897876785,1004,Red velvet ,70,200,16000,Wed Sep 27 17:44:58 2023
+Shiva,shiva@gmail.com,8968765875,1005,Choco_lava ,40,200,8000,Wed Sep 27 17:49:00 2023
+Vishnu,vishnu@gmail.com,809786323,1005,Choco_lava ,60,200,14000,Wed Sep 27 17:49:42 2023
+Zigler,zigler@gmail.com,98789678576,1004,Red velvet ,100,200,22000,Wed Sep 27 17:50:32 2023
+Timothee,timothee@gmail.com,7868767566,1005,Choco_lava ,100,200,22000,Wed Sep 27 18:50:36 2023
+Kylie,kylie@gmail.com,87868756675,1004,Red velvet ,100,200,22000,Wed Sep 27 18:53:15 2023
+Kendall,kendall,88767865786,1003,Cadbury ,80,50,4000,Wed Sep 27 18:54:54 2023
+Zyan,zyan@gmail.com,8278976786,1002,Milky Bar ,100,50,5000,Wed Sep 27 18:55:20 2023
+Tristan,tristan18@gmail.com,89876556222,1005,Choco_lava ,60,200,12000,Wed Sep 27 20:30:55 2023
+Shubham,shubham@gmail.com,73289678726,1004,Red velvet ,60,200,12000,Fri Sep 29 22:01:02 2023
+ginny,ginn@gmail.com,87657465445,1004,Red velvet ,40,200,10000,Sun Oct  1 00:45:21 2023
+Shubham Pratap Singh,shubham123@gmail.com,897872154,1003,Cadbury ,100,50,5000,Tue Oct 31 21:16:14 2023
+Ishan kochhar,ishan@gmail.com,87687656589,1002,Milky Bar ,30,50,1500,Tue Dec  5 10:29:39 2023
+Rahul,rahul@gmail.com,68687568909,1001,5-Star ,60,50,3000,Tue Dec  5 10:30:47 2023
+ishan kochhar,kochhar@gmail.com,9879865446,1005,Choco_lava ,1,200,200,Tue Dec  5 10:52:14 2023
+ishan kochhar,kochhar@gmail.com,9879865446,1005,Choco_lava ,120,200,24000,Tue Dec  5 10:52:27 2023
+saksham ,saksham@gmail.com,986674452433,1004,Red velvet ,1,200,200,Wed Dec  6 11:51:48 2023
+saksham ,saksham@gmail.com,986674452433,1004,Red velvet ,1,200,200,Wed Dec  6 11:51:51 2023
+Ishan,ishan@gmail.com,8278738193,1001,5-Star ,4,50,200,Wed Dec  6 12:54:31 2023
+ishan ,ishan@gmail.com,82718171,1001,5-Star ,1,50,50,Wed Dec  6 14:26:28 2023
+Ishan Kochhar,ishan@gmail.com,64656,1001,5-Star ,1,50,50,Wed Dec  6 16:18:33 2023
+Ishan Kochhar,ishan@gmail.com,64656,1001,5-Star ,1,50,50,Wed Dec  6 16:21:14 2023
