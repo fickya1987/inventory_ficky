@@ -2,7 +2,7 @@ import time
 import json
 import streamlit as st
 
-st.title("Inventory Management System")
+st.title("Gaman E-Commerce Inventory Database")
 
 # Load inventory from JSON
 with open('Records.json', 'r') as fd:
